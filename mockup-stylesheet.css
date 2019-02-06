@@ -1,0 +1,33 @@
+header {
+  background-color: lightblue;
+  color: white;
+}
+a {
+  color: blue;
+  font-style: san serif;
+}
+h3 {
+  color: red;
+  font-style: san serif;
+  margin-top: 150px;
+  text-align: right;
+  width: 150px;
+  float: right;
+}
+ul {
+  font-style: san serif;
+  font-size: 1rem;
+  font-stretch: expanded;
+  text-align: left;
+  float: left;
+}
+footer {
+  text-align: center;
+  background-color: darkgrey;
+}
+ul {
+  background-color: lightblue;
+}
+nav {
+  background-color: darkgrey;
+}
